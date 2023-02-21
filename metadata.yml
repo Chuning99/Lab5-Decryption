@@ -1,0 +1,16 @@
+---
+:id: 127975188
+:submitters:
+- :name: Chuning Liu
+  :email: chl155@ucsd.edu
+- :name: Wensheng Yu
+  :email: w3yu@ucsd.edu
+- :name: Jikun Wang
+  :email: jiw124@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-06-07 01:39:51.658568000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-06-06 18:39:51.658568000 Z
+:status: processed
+:score: 70.0
